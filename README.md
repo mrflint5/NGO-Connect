@@ -83,7 +83,7 @@ Visit: `http://127.0.0.1:5000`
 
 📧 [sameermalik1419@gmail.com](mailto:sameermalik1419@gmail.com)
 📱 +91-9452091278
-🔗 [LinkedIn](https://www.linkedin.com/in/sameermalik1419/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sameer-malik-b5b8772b9)
 
 ---
 
