@@ -1,7 +1,5 @@
 # 🌐 NGO Connect - Empowering Change, One Click at a Time
 
-> A full-stack web application built with **Flask** and **SQLite3**, enabling users to volunteer, donate, and track donation history with a beautiful interface.
-
 ---
 
 ## 🚀 Features
