@@ -7,7 +7,7 @@
 * 🔐 User Signup & Login (with session authentication)
 * 👥 Volunteer Activity Entry & Listing
 * 💸 Donation Form & Donor History
-* 📊 Dashboard with Navigation
+* 📊 Dashboard with Navigation.
 * ☎️ Contact Page
 * 🧠 Secure, Stylish, and Simple
 
