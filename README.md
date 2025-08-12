@@ -9,7 +9,7 @@
 * 💸 Donation Form & Donor History
 * 📊 Dashboard with Navigation
 * ☎️ Contact Page
-* 🧠 Secure, Stylish, and Simple
+* 🧠 Secure, Stylish, and Simple.
 
 ---
 
